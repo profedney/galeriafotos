@@ -1,7 +1,6 @@
 *{
     background-color: darkgrey;
-    display: flex;
-    flex-direction: column;
+    
 }
 
 h1{
@@ -10,10 +9,12 @@ h1{
     color: red;
     padding: 50px;
     margin: 30px;
-    justify-content: center;
+    text-align: center;
 }
 
 #caixa-flex{
+    display: flex;
+    flex-direction: column;
     background-color: rgb(39, 39, 39);
     padding: 40px;
     margin: 40px;
