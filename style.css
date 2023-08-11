@@ -1,3 +1,8 @@
 *{
     background-color: darkgrey;
 }
+
+h1{
+    display: flex;
+    background-color: black;
+}
