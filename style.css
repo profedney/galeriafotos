@@ -1,6 +1,7 @@
-*{
+body{
     background-color: darkgrey;
     display: flex;
+    flex-direction: column;
 }
 
 h1{
