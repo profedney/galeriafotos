@@ -7,15 +7,15 @@ h1{
     
     background-color: black;
     color: red;
-    padding: 20px;
-    margin: 30px;
+    padding: 10px;
+    margin: 10px;
     text-align: center;
 }
 
 #caixa-flex{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background-color: rgb(39, 39, 39);
-    padding: 40px;
-    margin: 40px;
+    padding: 10px;
+    margin: 10px;
 }
