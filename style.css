@@ -7,13 +7,14 @@ h1{
     
     background-color: black;
     color: red;
-    padding: 50px;
+    padding: 20px;
     margin: 30px;
     text-align: center;
 }
 
 #caixa-flex{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     background-color: rgb(39, 39, 39);
     padding: 40px;
