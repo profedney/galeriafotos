@@ -6,4 +6,6 @@ h1{
     display: flex;
     background-color: black;
     color: red;
+    padding: 50px;
+    margin: 30px;
 }
