@@ -1,12 +1,19 @@
 *{
     background-color: darkgrey;
+    display: flex;
 }
 
 h1{
-    display: flex;
+    
     background-color: black;
     color: red;
     padding: 50px;
     margin: 30px;
     justify-content: center;
+}
+
+#caixa-flex{
+    background-color: rgb(39, 39, 39);
+    padding: 40px;
+    margin: 40px;
 }
